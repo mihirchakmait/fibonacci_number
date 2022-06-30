@@ -1,2 +1,2 @@
-# fibonacci_number
+# Fibonacci Number
 Generate the nth Fibonacci number in Rust.
